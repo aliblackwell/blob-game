@@ -1,0 +1,28 @@
+{
+  "name": "blob-game",
+  "version": "1.0.0",
+  "description": "A fun blob game",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliblackwell/blob-game.git"
+  },
+  "keywords": [
+    "blob",
+    "p5",
+    "js"
+  ],
+  "author": "Ali Blackwell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliblackwell/blob-game/issues"
+  },
+  "homepage": "https://github.com/aliblackwell/blob-game#readme",
+  "dependencies": {
+    "serve": "^11.0.0"
+  }
+}
